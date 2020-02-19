@@ -8,7 +8,7 @@ namespace linqdemo
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var bq1 = from c in collec.Classes
                       from s in collec.Students
