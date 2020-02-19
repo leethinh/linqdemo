@@ -22,7 +22,7 @@ namespace linqdemo
             {
                 Console.WriteLine($"{pt.stu_id},{pt.id}");
             }
-            Console.WriteLine("fdfsdf");
+            Console.WriteLine("ok");
         }
     }
 }
